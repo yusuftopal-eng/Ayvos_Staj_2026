@@ -1,0 +1,10 @@
+import numpy as np
+
+staj_gunleri = ["Pazartesi", "Salı", "Çarşamba"]
+for gun in staj_gunleri:
+    print(f"Staj Günü: {gun}")
+
+matris = np.array([[1, 2, 3], [4, 5, 6]])
+print("\nOluşturulan Matris:")
+print(matris)
+print(f"Matrisin Boyutu: {matris.shape}")
