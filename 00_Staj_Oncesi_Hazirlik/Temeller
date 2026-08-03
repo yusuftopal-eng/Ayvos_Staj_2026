@@ -7,4 +7,4 @@ for gun in staj_gunleri:
 matris = np.array([[1, 2, 3], [4, 5, 6]])
 print("\nOluşturulan Matris:")
 print(matris)
-print(f"Matrisin Boyutu: {matris.shape}")
+print(f"Matrisin Boyutu: {matris.shape}") 
