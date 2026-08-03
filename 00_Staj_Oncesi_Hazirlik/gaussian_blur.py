@@ -17,4 +17,4 @@ cv2.imshow("Gaussian Blur Uygulanmis Resim", bulanik_resim)
 
 # Pencerelerin bir tuşa basana kadar kapanmaması için:
 cv2.waitKey(0)
-cv2.destroyAllWindows()
+cv2.destroyAllWindows() 
